@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "widget.json"
+            ],
+            "url": "./widget-schema.json"
+        }       
+    ]
+}

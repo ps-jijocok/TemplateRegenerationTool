@@ -1,0 +1,12 @@
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\bin\Debug\WinSCP.exe
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\bin\Debug\TemplateRegenerationTool.exe.config
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\bin\Debug\TemplateRegenerationTool.exe
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\bin\Debug\TemplateRegenerationTool.pdb
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\bin\Debug\WinSCPnet.dll
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.Form1.resources
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.Properties.Resources.resources
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.csproj.GenerateResource.cache
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.csproj.CoreCompileInputs.cache
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.csproj.CopyComplete
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.exe
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.pdb
