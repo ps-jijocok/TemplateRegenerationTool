@@ -3,6 +3,7 @@ C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationT
 C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\bin\Debug\TemplateRegenerationTool.exe
 C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\bin\Debug\TemplateRegenerationTool.pdb
 C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\bin\Debug\WinSCPnet.dll
+C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.csprojAssemblyReference.cache
 C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.Form1.resources
 C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.Properties.Resources.resources
 C:\Users\jijo.mathew\source\repos\TemplateRegenerationTool\TemplateRegenerationTool\obj\Debug\TemplateRegenerationTool.csproj.GenerateResource.cache

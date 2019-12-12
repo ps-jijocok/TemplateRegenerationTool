@@ -165,8 +165,9 @@ namespace TemplateRegenerationTool
                             Console.WriteLine("Upload of {0} succeeded", transfer.FileName);
                         }
                         */
-                        sourcePath = drct.ToString() + "\\" + "src\\*";
-                        newDestPath = newDestPath + "src" + "/";
+                        //sourcePath = drct.ToString() + "\\" + "src\\*";
+                        sourcePath = drct.ToString() + "\\" + "src\\";
+                        //newDestPath = newDestPath + "src" + "/";
                         transferResult =
                             session.PutFiles(sourcePath, newDestPath, false, transferOptions);
 
